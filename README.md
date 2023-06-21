@@ -1,0 +1,1 @@
+Innsamlet trafikk fra apper på iOS i forbindelse med en lyntale på Rebel Sharefest og en bloggpost på kodemaker.no.
